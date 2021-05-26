@@ -48,6 +48,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ## Frozen Ground/Permafrost
 ### FGP Software
 ### FGP Data
+- [PERMOS](https://permos.ch) - Swiss National Permafrost Monitoering Network
+- [PermaSense Matterhorn Data](https://doi.pangaea.de/10.1594/PANGAEA.916193) - 10+ years of Matterhorn Permafrost Observatory Data ([p](https://doi.org/10.5194/essd-11-1203-2019))
 
 ## Glaciers and Ice Sheets
 ### GIS Software
@@ -137,7 +139,6 @@ hydrology and glacier dynamics (paper)
 - [iceplotlib](https://github.com/juseg/iceplotlib) - Plotting tools for PISM using matplotlib and netcdf4-python
 
 #### GIS Remote Sensing Software
-- [DIC_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) -  Detect and quantify surface displacements in multi-temporal images ([p](https://www.mdpi.com/2072-4292/10/6/865))
 - [glaciersat](https://github.com/jlandmann/glaciersat) -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 - [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 laser altimetry data
 
